@@ -1,10 +1,11 @@
 .App {
   text-align: center;
+  padding: 30px;
+  overflow-y: hidden;
 }
 
 .App-logo {
-  height: 400px;
-  width: 400px;
+  height: 300px;
   pointer-events: none;
 }
 
